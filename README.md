@@ -12,20 +12,19 @@
 ║                                                          ║
 ║              sparse-pirate // systems operator           ║
 ╚══════════════════════════════════════════════════════════╝
-text$\color{#00FF9C}{\textsf{\$ whoami}}$  
-$\color{#C084FC}{\textsf{sparse-pirate}}$
-
-$\color{#F43F5E}{\textsf{Systems | Networking | Cybersecurity}}$
+text<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Systems+%7C+Networking+%7C+Cybersecurity" alt="Role"/>
+</div>
 
 ---
 
 ### About
 
 Hands-on Systems & Network Administrator.  
-I work with servers, networks, and security tools across Windows and Linux.  
+I work with servers, networks, and security tools across Windows and Linux environments.  
 Focus: keep systems stable, visible, and hard to break.
 
-Also maintain a personal **homelab** for security testing and self-hosting.
+I also maintain a personal **homelab** for practical cybersecurity work and self-hosting.
 
 ---
 
@@ -85,8 +84,8 @@ Used for testing security tools, monitoring, hardening, and self-hosted services
 
 ---
 
-$\color{#00FF9C}{\textsf{\$ build\ \&\&\ secure\ \&\&\ repeat}}$
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sparse-pirate&style=for-the-badge&color=00FF9C&label=Profile+Views"/>
+  <br/><br/>
+  <code>$ build && secure && repeat</code>
 </div>
