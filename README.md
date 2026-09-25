@@ -12,20 +12,20 @@
 ║                                                          ║
 ║              sparse-pirate // systems operator           ║
 ╚══════════════════════════════════════════════════════════╝
-textCopyCopied$${\color{#00FF9C} \$ whoami}$$  
-$${\color{#C084FC} sparse-pirate}$$
+text$\color{#00FF9C}{\textsf{\$ whoami}}$  
+$\color{#C084FC}{\textsf{sparse-pirate}}$
 
-$${\color{#F43F5E} Systems\ |\ Networking\ |\ Cybersecurity}$$
+$\color{#F43F5E}{\textsf{Systems | Networking | Cybersecurity}}$
 
 ---
 
 ### About
 
-$${\color{#00FF9C} Hands-on\ Systems\ \&\ Network\ Administrator}$$  
-Work across **Windows** and **Linux** environments.  
+Hands-on Systems & Network Administrator.  
+I work with servers, networks, and security tools across Windows and Linux.  
 Focus: keep systems stable, visible, and hard to break.
 
-Also run a personal **homelab** for security testing and self-hosting.
+Also maintain a personal **homelab** for security testing and self-hosting.
 
 ---
 
@@ -45,53 +45,48 @@ Also run a personal **homelab** for security testing and self-hosting.
   <img src="https://img.shields.io/badge/Pentesting-0D1117?style=for-the-badge&color=C084FC"/>
   <img src="https://img.shields.io/badge/Hardening-0D1117?style=for-the-badge&color=F43F5E"/>
 </p>
-SYSTEMS   →  VMware ESXi | Active Directory | MECM | Server Hardening
-SECURITY  →  Nmap | Wireshark | SIEM | Pentesting | Network Defense
-OS        →  Arch (daily) | Ubuntu (work)
-textCopyCopied---
 
-### Active Processes
+---
 
-```diff
-+ 01  Cybersecurity Project     RUNNING
-+ 02  Minecraft CySec Lab       RUNNING
-+ 03  Homelab                   RUNNING
+### Current Focus
 
-Homelab
-${\color{#00FF9C} \$ systemctl\ status\ homelab}$
-● active (running)
-Personal lab for cybersecurity and infrastructure.
-Used for testing tools, monitoring, hardening, and self-hosted services.
+| Project | Description | Status |
+|:--------|:------------|:------:|
+| **Cybersecurity Project** | Building and hardening infrastructure | Active |
+| **Minecraft CySec Lab** | Practical security learning environment | Active |
+| **Homelab** | Security tools + self-hosted services | Ongoing |
 
-Certifications
+---
 
+### Homelab
 
+Personal lab focused on cybersecurity and infrastructure.  
+Used for testing security tools, monitoring, hardening, and self-hosted services.
 
+---
 
+### Certifications
 
+| Certification | Issuer | Status |
+|:--------------|:-------|:------:|
+| *Add your certification* | *Issuer* | Completed |
+| *Add your certification* | *Issuer* | In Progress |
 
+---
 
+### Stats
 
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sparse-pirate&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=C084FC&text_color=c9d1d9&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparse-pirate&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparse-pirate&hide_border=true&background=0D1117&ring=00FF9C&fire=C084FC&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=c9d1d9"/>
+</div>
 
+---
 
+$\color{#00FF9C}{\textsf{\$ build\ \&\&\ secure\ \&\&\ repeat}}$
 
-
-
-
-
-
-
-
-
-
-CertificationIssuerStatusAdd your certIssuerCompletedAdd your certIssuerIn Progress
-
-Metrics
-
-  
-  
-  
-  
-
-
-$${\color{#00FF9C} \$ build\ \&\&\ secure\ \&\&\ repeat}$$
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sparse-pirate&style=for-the-badge&color=00FF9C&label=Profile+Views"/>
+</div>
