@@ -154,6 +154,8 @@ Offensive Security Intro, Defensive Security Intro, Careers in Cyber, Inside a C
 
 Also done: **OverTheWire Bandit**, levels 0 to 10 so far.
 
+**Certificates:** TryHackMe Pre Security | TryHackMe Hacker Holidays 2026 (a 14-day event covering OSINT, web exploitation, cloud, forensics and AI prompt attacks)
+
 Full notes live in [`pentest-portfolio`](https://github.com/sparse-pirate/pentest-portfolio) and the day-by-day record in [`red-team-journey`](https://github.com/sparse-pirate/red-team-journey).
 
 <br>
